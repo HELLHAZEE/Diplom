@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_button">Узнать погоду</string>
+    <string name="city_hint">Введите название города</string>
+    <string name="temperature_text_view">Температура:</string>
+    <string name="current_weather_text_view">Погода:</string>
+    <string name="back_button">Вернуться к поиску города</string>
+</resources>
